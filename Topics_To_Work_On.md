@@ -1,5 +1,6 @@
 **Folder 1: Mathematics**
 - Linear Algebra
+    - Kernels
 - Analytic Geometry
 - Matrix Decomposition
 - Vector Calculus
