@@ -16,3 +16,4 @@ By no means am I an expert, I am an undergrand student finishing up his BS in co
 
 ## Resources
 - Mathematics for Machine Learning Textbook: https://mml-book.github.io
+- Github Copilot for a lot of method explanation and creating better explanations of my own personal understanding.
