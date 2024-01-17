@@ -16,6 +16,7 @@ By no means am I an expert, I am an undergrand student finishing up his BS in co
 
 ## Resources
 - [Mathematics for Machine Learning Textbook](https://mml-book.github.io)
+- [Super Data Science](https://www.superdatascience.com) A lot of great resources from here!  
 - Github Copilot for a lot of method examples and creating better explanations of my own personal understanding.
 - Utilized notes from past courses
 - Youtube! Will put a lot of links spaced throughout the notebooks, heavily relied on these channels to connect topics
