@@ -13,7 +13,10 @@ This will typically be in the format of Definition, Intuition, explanation, prop
 
 ## Disclaimer
 By no means am I an expert, I am an undergrand student finishing up his BS in computer science and minor in Applied Mathematics. There will be mistakes, but this is the reason why I'm working on this! I want to find my weaknesses and learn from them. I will update this with the path of recommended study as I expand, and all resources will be linked in here and in each folder and where they are utilized.  
-
+## Notes for later
+- build full explanation with math for ML types in TF
+- build from scratch in python
+- build in scikit
 ## Resources
 - [Mathematics for Machine Learning Textbook](https://mml-book.github.io)
 - [Super Data Science](https://www.superdatascience.com) A lot of great resources from here!  
