@@ -82,3 +82,9 @@
 - https://arxiv.org/abs/1503.04069 LTSM a search space odyssey
 - https://arxiv.org/abs/1311.2901  Visualizing and understanding CNNs
 - https://arxiv.org/abs/1506.02078 Visualizing and Understanding RNNs
+- [Batch Normalization](https://arxiv.org/abs/1502.03167)
+- [Going Deeper With Convolutions](https://arxiv.org/abs/1409.4842)
+- [Deep Residual learning](https://arxiv.org/abs/1512.03385)
+- [Very Deep Conv Networks for Large-Scale Image Recog](https://arxiv.org/abs/1409.1556)
+- [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325)
+- [A Nueral ALgorithm for Artistic Style](https://arxiv.org/abs/1508.06576)
