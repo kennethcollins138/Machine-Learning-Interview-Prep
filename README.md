@@ -25,3 +25,6 @@ By no means am I an expert, I am an undergrand student finishing up his BS in co
 - Youtube! Will put a lot of links spaced throughout the notebooks, heavily relied on these channels to connect topics
     - [3Blue1Brown](https://www.youtube.com/@3blue1brown/courses)
     - [JohnKrohn](https://www.youtube.com/@JonKrohnLearns/playlists)
+    - [Mathemaniac](https://www.youtube.com/@mathemaniac)
+- [Deep Learning](https://www.deeplearningbook.org)
+- [NN and DL](http://neuralnetworksanddeeplearning.com/index.html)
