@@ -23,8 +23,9 @@ By no means am I an expert, I am an undergrand student finishing up his BS in co
 - Github Copilot for a lot of method examples and creating better explanations of my own personal understanding.
 - Utilized notes from past courses
 - Youtube! Will put a lot of links spaced throughout the notebooks, heavily relied on these channels to connect topics
-    - [3Blue1Brown](https://www.youtube.com/@3blue1brown/courses)
-    - [JohnKrohn](https://www.youtube.com/@JonKrohnLearns/playlists)
-    - [Mathemaniac](https://www.youtube.com/@mathemaniac)
+    - [3Blue1Brown](https://www.youtube.com/@3blue1brown/courses): Great Mathematic visual and intuition!
+    - [JohnKrohn](https://www.youtube.com/@JonKrohnLearns/playlists): Great ML resource
+    - [Mathemaniac](https://www.youtube.com/@mathemaniac): Great mathematical intution
+    - [LazyProgrammer](https://www.youtube.com/@LazyProgrammerOfficial): Great Resource for connecting the math to the code!
 - [Deep Learning](https://www.deeplearningbook.org)
 - [NN and DL](http://neuralnetworksanddeeplearning.com/index.html)
