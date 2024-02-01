@@ -1,14 +1,10 @@
 **Folder 1: Mathematics**
-- Linear Algebra
-    - Kernels
-    - Support Vectors
-- Analytic Geometry
-- Matrix Decomposition
-- Vector Calculus
-- Probability and Distributions
-- Continuous Optimization
+
+- extended gaussian filters
+
 
 **Folder 2: Machine Learning**
+
 - SVR (Support Vector Regression)
 - Kernel trick
 - Upper Confidence Bound
@@ -23,6 +19,7 @@
 - Cholesky Decomposition
 
 **Folder 3: Neural Networks**
+
 - Deep sparse rectifier neural networks
 - Activation functions: Rectifier, sigmoid, threshold, hyperbolic tangent
 - Softmax
@@ -60,14 +57,16 @@
     - No lateral connection between output nodes
     - http://www.ai-junkie.com/ann/som/som1.html 
     - https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal/ 
+
 # Library Docs
+
 - https://keras.io/api/
 - https://www.tensorflow.org/api_docs/python/tf 
 - https://scikit-learn.org/0.21/modules/classes.html 
 - https://pytorch.org/docs/stable/index.html
 
-
 # Resource
+
 - http://karpathy.github.io
 - - Introduction to CNN by Jianxin Wu
 - Understanding Convolutional NN with a Mathematical Model by C.-C Jay Kuo
