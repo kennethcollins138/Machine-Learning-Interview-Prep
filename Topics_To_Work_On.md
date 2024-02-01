@@ -1,11 +1,13 @@
-**Folder 1: Mathematics**
+# Topics to Work On
+
+## Folder 1: Mathematics
 
 - extended gaussian filters
 
-
-**Folder 2: Machine Learning**
+## Folder 2: Machine Learning
 
 - SVR (Support Vector Regression)
+
 - Kernel trick
 - Upper Confidence Bound
 - Thompson Sampling
@@ -18,7 +20,7 @@
 - Singular Value Decomposition
 - Cholesky Decomposition
 
-**Folder 3: Neural Networks**
+## Folder 3: Neural Networks
 
 - Deep sparse rectifier neural networks
 - Activation functions: Rectifier, sigmoid, threshold, hyperbolic tangent
@@ -28,46 +30,46 @@
 - Backpropagation
 - A neural network in 13 lines of Python
 - exploding gradient
-    - truncated backpropogation (not optimal)
-    - penalties
-    - Gradient Clipping
+  - truncated backpropogation (not optimal)
+  - penalties
+  - Gradient Clipping
 - vanishing gradient
-    - weight initilizaiton
-    - echo state networks
-    - Long Short term memory Networks
+  - weight initilizaiton
+  - echo state networks
+  - Long Short term memory Networks
 - Long Short Term Memory [LSTM](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-    - Wrec = 1
-    - Have a memory cell/pipeline
-    - valves
-    - [More Reading](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
-    - Applications
-        - Google translate
-        - NLP
-        - Speech Processing
-        - Time Series Prediction
+  - Wrec = 1
+  - Have a memory cell/pipeline
+  - valves
+  - [More Reading](https://blog.mlreview.com/understanding-lstm-and-its-diagrams-37e2f46f1714)
+  - Applications
+    - Google translate
+    - NLP
+    - Speech Processing
+    - Time Series Prediction
 - Epochs
 - Time Steps
 - SOM
-    - No activation function, weights are characteristic of the output itself
-    - Think of a napkin fitting around a ball
-    - Retain topology of input set, kind of like a mask
-    - Reveal correlations that are not easily identified
-    - Unsupervised
-    - No target Vector = No backpropogation
-    - No lateral connection between output nodes
-    - http://www.ai-junkie.com/ann/som/som1.html 
-    - https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal/ 
+  - No activation function, weights are characteristic of the output itself
+  - Think of a napkin fitting around a ball
+  - Retain topology of input set, kind of like a mask
+  - Reveal correlations that are not easily identified
+  - Unsupervised
+  - No target Vector = No backpropogation
+  - No lateral connection between output nodes
+  - <http://www.ai-junkie.com/ann/som/som1.html>
+  - <https://www.visualcinnamon.com/2013/07/self-organizing-maps-creating-hexagonal/>
 
-# Library Docs
+## Library Docs
 
-- https://keras.io/api/
-- https://www.tensorflow.org/api_docs/python/tf 
-- https://scikit-learn.org/0.21/modules/classes.html 
-- https://pytorch.org/docs/stable/index.html
+- <https://keras.io/api/>
+- <https://www.tensorflow.org/api_docs/python/tf>
+- <https://scikit-learn.org/0.21/modules/classes.html>
+- <https://pytorch.org/docs/stable/index.html>
 
-# Resource
+## Resource
 
-- http://karpathy.github.io
+- <http://karpathy.github.io>
 - - Introduction to CNN by Jianxin Wu
 - Understanding Convolutional NN with a Mathematical Model by C.-C Jay Kuo
 - Delving Deep Into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification
@@ -77,10 +79,10 @@
 - A friendly Introduction to Cross-Entropy Loss by Rob DiPietro
 - How to Implement a neural network Intermezzo 2 by Peter Relents
 - Image Augmentation
-- https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf SOM
-- https://arxiv.org/abs/1503.04069 LTSM a search space odyssey
-- https://arxiv.org/abs/1311.2901  Visualizing and understanding CNNs
-- https://arxiv.org/abs/1506.02078 Visualizing and Understanding RNNs
+- <https://sci2s.ugr.es/keel/pdf/algorithm/articulo/1990-Kohonen-PIEEE.pdf> SOM
+- <https://arxiv.org/abs/1503.04069> LTSM a search space odyssey
+- <https://arxiv.org/abs/1311.2901>  Visualizing and understanding CNNs
+- <https://arxiv.org/abs/1506.02078> Visualizing and Understanding RNNs
 - [Batch Normalization](https://arxiv.org/abs/1502.03167)
 - [Going Deeper With Convolutions](https://arxiv.org/abs/1409.4842)
 - [Deep Residual learning](https://arxiv.org/abs/1512.03385)
