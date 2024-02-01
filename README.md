@@ -18,7 +18,7 @@ For the most part, I tried to keep the structure in the model relatively straigh
 
 By no means am I an expert, I am an undergrand student finishing up his BS in computer science and minor in Applied Mathematics. There will be mistakes, but this is the reason why I'm working on this! I want to find my weaknesses and learn from them. I will update this with the path of recommended study as I expand, and all resources will be linked in here and in each folder and where they are utilized.  
 
-With that being said, I'm not the most organized individual. For the Mathematics folder, I typically relied on feeding Github Copilot my notes and having it return it in an organized manner. I believe it of utmost importance I emphasize this.  
+With that being said, I'm not the most organized individual. For the Mathematics folder, I typically relied on feeding Github Copilot my notes and having it return it in an organized manner. I believe it of utmost importance I emphasize this as it may have added some notes which were not mine.  
 
 At the end of the day, I hope someone finds the passion in the mathematics behind this like I did! I hope this resource can be a useful and great resource for anyone looking to learn. If you have any questions, don't hesitate to message me on LinkedIn!  
 
